@@ -22,7 +22,7 @@ npm install
 
 ### Step 3 - Start the app
 
-Run on Expo Go:
+Run on Expo Go App (Install from Play Store (Android)/App Store (iOS)):
 
 ```bash
 npx expo start
