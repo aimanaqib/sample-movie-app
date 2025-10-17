@@ -10,8 +10,8 @@ Users can explore popular movies, search titles, and view detailed information i
 ### Step 1 - Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/kloudius-movie-app.git
-cd kloudius-movie-app
+git clone https://github.com/aimanaqib/sample-movie-app
+cd sample-movie-app
 ```
 
 ### Step 2 - Install dependencies
